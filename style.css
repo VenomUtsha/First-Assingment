@@ -1,0 +1,227 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: unset;
+}
+
+
+/*FIRST SECTION*/
+
+
+.first-part {
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 20%;
+
+
+}
+
+.initial-one {
+    background-color: aliceblue;
+    color: black;
+    opacity: 60%;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.initial-two {
+    color: aliceblue;
+    background-color: black;
+    opacity: 70%;
+    font-size: 25px;
+}
+
+.button-one {
+    background-color: rgb(66, 63, 63);
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 25px;
+    padding: 15px 15px 15px 15px;
+}
+
+
+/*SECOND SECTION*/
+
+
+.initial-three {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 10px;
+    font-size: 24px;
+}
+
+.paragraph-class {
+    font-size: 18px;
+}
+
+.initial-four {
+    display: flex;
+    text-indent: 50px;
+    margin-top: 60px;
+    margin-left: 20%;
+}
+
+#second-h {
+    border: 2px solid salmon;
+    background-color: bisque;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-right: 42px;
+    padding-left: 2px;
+    margin-left: 30px;
+}
+
+.third-h {
+
+    background-color: beige;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-right: 42px;
+    padding-left: 2px;
+    margin-left: 30px;
+}
+
+.first-input {
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    width: 60.5%;
+    font-size: medium;
+    margin-left: 332px;
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.button-two {
+    background-color: rgb(66, 63, 63);
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;
+    margin-left: 750px;
+}
+
+
+/*THIRD SECTION*/
+
+
+.new-one {
+    display: flex;
+    font-size: small;
+    margin-left: 250px;
+
+}
+
+.initial-five {
+    background-color: rgb(208, 243, 247);
+    margin-left: 30px;
+    text-align: left;
+    text-align: justify;
+    height: 280px;
+    width: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+
+}
+
+.initial-six {
+    background-color: rgb(244, 204, 227);
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    text-align: left;
+    text-align: justify;
+    height: 280px;
+    width: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+}
+
+.initial-seven {
+    background-color: rgb(240, 219, 182);
+    margin-left: 30px;
+    text-align: left;
+    text-align: justify;
+    height: 280px;
+    width: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+
+}
+
+
+/*FOUTH SECTION*/
+
+
+.initial-self {
+    display: flex;
+    text-indent: 70px;
+    background-color: rgb(196, 185, 185);
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 230px;
+    margin-right: 120px;
+
+}
+
+.button-three {
+
+    background-color: rgb(66, 63, 63);
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;
+    margin-left: -4px
+}
+
+#message-one {
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#button-id {
+    border-radius: 4px;
+
+}
+
+
+/*FIFTH SECTION*/
+
+
+.initial-eight {
+    background-color: rgb(247, 213, 161);
+    display: flex;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 230px;
+    padding-right: 250px;
+
+}
+
+/*SIXTTH SECTION*/
+
+.footer-class {
+    background-color: rgb(98, 93, 93);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+    font-style: italic;
+}
+
+#footer-id {
+    margin-bottom: 5px;
+}
